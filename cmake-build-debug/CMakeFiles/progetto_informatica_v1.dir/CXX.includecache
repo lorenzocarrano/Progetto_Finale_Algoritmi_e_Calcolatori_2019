@@ -1,0 +1,126 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Analytics.h
+iostream
+-
+fstream
+-
+cmath
+-
+Basic_Features.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Basic_Features.h
+Ancestors.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Ancestors.h
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Ancestors.cpp
+Ancestors.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Ancestors.h
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Ancestors.h
+iostream
+-
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Basic_Features.h
+fstream
+-
+Simple_User.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Simple_User.h
+Company.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Company.h
+Group.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Group.h
+Ancestors.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Ancestors.h
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Company.cpp
+Company.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Company.h
+Profile.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Profile.h
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Company.h
+Profile.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Profile.h
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Date.cpp
+Date.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Date.h
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Date.h
+iostream
+-
+ctime
+-
+cstdlib
+-
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Group.cpp
+Group.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Group.h
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Group.h
+Profile.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Profile.h
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Post.cpp
+Post.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Post.h
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Post.h
+iostream
+-
+vector
+-
+Date.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Date.h
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Profile.cpp
+Profile.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Profile.h
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Profile.h
+iostream
+-
+fstream
+-
+vector
+-
+Date.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Date.h
+cmath
+-
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Simple_User.cpp
+Simple_User.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Simple_User.h
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Simple_User.h
+Profile.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Profile.h
+
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+cmath
+-
+Profile.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Profile.h
+Post.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Post.h
+Basic_Features.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Basic_Features.h
+Analytics.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Analytics.h
+Ancestors.h
+/Users/lorenzocarrano/Desktop/Progetto Algoritmi&Calcolatori/progetto_informatica_v1/Ancestors.h
+

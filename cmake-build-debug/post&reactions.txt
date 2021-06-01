@@ -1,0 +1,11 @@
+Francesco97,Lo studio fa male alla salute!! ~likes:{Lorenzo97} dislikes:{} Creation_Date: 10/01/2019
+Lorenzo97,Che tempaccio!! ~likes:{Francesco97} dislikes:{} Creation_Date: 5/1/2019
+AMIAT_TO,Raccolta Rifiuti Posticipata in tutta la città causa maltempo.
+Ci scusiamo per il disagio. ~likes:{Lorenzo97,Francesco97} dislikes:{Claretta_XD,Giorgio65,Marcellina} Creation_Date: 12/1/2019
+GTT_TO,Si ricorda la gentile clientela che il biglietto cartaceo non sarà più valido a partire da agosto 2019.
+Grazie per la collaborazione. ~likes:{Lorenzo97,Francesco97,Gianni} dislikes:{Cristiana,Sergio} Creation_Date: 12/1/2019
+Enel_Energy,A causa della fatturazione elettronica vi sarà un incremento delle spese da noi sostenute del 15%, ma non verrà incrementata la bolletta perché teniamo ai nostri clienti.
+...
+Ovviamente scherzavamo, bollette incrementate del 35%, FACCIAMO GIRARE QUESTA ECONOMIA!! ~likes:{Mario89} dislikes:{Lorenzo97,Francesco97,Gianni,Claretta_XD,Giorgio65,Antonio_F} Creation_Date: 15/1/2019
+Gr_Pesca,Ci vediamo tutti il 5 aprile 2019 al lago di Como per torneo pesca~likes:{Giorgio65} dislikes:{Mario89} Creation_Date: 18/1/2019
+Caccia_Al_Cinghiale,Prossima Settimana Caccia Aperta, tutti Pronti!~likes:{Antonio_F,Gianni,Sergio} dislikes:{} Creation_Date: 20/1/2019

@@ -1,0 +1,34 @@
+Giorgio65, Simple_User, Name: Giorgio, Surname: Rossi, Address: Via_Di_Casa_10_Torino_TO_Italy, Job: Autista, BirthDate: 3/2/1965, Gender: Male
+Mario89, Simple_User, Name: Mario, Surname: Rossi, Address: Via_Di_Casa_10_Torino_TO_Italy, Job: Disoccupato, BirthDate: 3/2/1989, Gender: Male
+Claretta_XD, Simple_User, Name: Claretta, Surname: Bianchi, Address: Via_Di_Casa_10_Torino_TO_Italy, Job: Infermiera, BirthDate: 2/2/1968, Gender: Female
+Marco_Antonio, Simple_User, Name: Antonio, Surname: Rossi, Address: Via_delle_Rose_Bari_BA_Italy, Job: Agricoltore, BirthDate: 12/5/1945, Gender: Male
+Rosalinda, Simple_User, Name: Rosa, Surname: Colelli, Address: Via_delle_Rose_Bari_BA_Italy, Job: Panettiera, BirthDate: 11/11/1949, Gender: Female
+Eliana, Simple_User, Name: Eliana, Surname: Bossi, Address: Via_Vigone_10_Torino_TO_Italy, Job: Maestra_Elementare, BirthDate: 3/2/1920, Gender: Female
+Erne_Sto, Simple_User, Name: Ernesto, Surname: Bianchi, Address: Via_Vigone_10_Torino_TO_Italy, Job: Soldato, BirthDate: 20/5/1915, Gender: Male
+Peppa, Simple_User, Name: Peppa, Surname: Holden, Address: Springfield, Job: Casalinga, BirthDate: 10/8/1915, Gender: Female
+Francesco97, Simple_User, Name: Francesco, Surname: Corongiu, Address: TORINO, Job: Studente, BirthDate: 12/12/1997, Gender: Male
+Lorenzo97, Simple_User, Name: Lorenzo, Surname: Carrano, Address: TORINO, Job: Studente, BirthDate: 7/2/1997, Gender: Male
+Gianni, Simple_User, Name: Giovanni, Surname: Corongiu, Address: Sassari, Job: Farmacista, BirthDate: 24/9/1960, Gender: Male
+Carmine, Simple_User, Name: Carmine, Surname: Corongiu, Address: Laconi, Job: Operaio, BirthDate: 12/12/1940, Gender: Male
+Grazietta, Simple_User, Name: Ignazia, Surname: Gelmino, Address: Laconi, Job: Casalinga, BirthDate: 10/10/1943, Gender: Female
+Agnese, Simple_User, Name: Agnese, Surname: Fresu, Address: Sassari, Job: Insegnante, BirthDate: 4/1/1961, Gender: Female
+Tonino, Simple_User, Name: Tonino, Surname: Fresu, Address: Berchidda, Job: Pastore, BirthDate: 5/8/1935, Gender: Male
+Rita, Simple_User, Name: Rita, Surname: Pianezzi, Address: Berchidda, Job: Panettiera, BirthDate: 5/8/1938, Gender: Female
+Bartolomeo, Simple_User, Name: Bartolomeo, Surname: Fresu, Address: Berchidda, Job: Pastore, BirthDate: 1/5/1900, Gender: Male
+Antonio_F, Simple_User, Name: Antonfranco, Surname: Carrano, Address: Viterbo, Job: Militare, BirthDate: 1/1/1968, Gender: Male
+Franco, Simple_User, Name: Franco, Surname: Carrano, Address: Viterbo, Job: Militare, BirthDate: 1/1/1942, Gender: Male
+Rita__1, Simple_User, Name: Rita, Surname: Gelmino, Address: Viterbo, Job: Casalinga, BirthDate: 10/10/1943, Gender: Female
+Cristiana, Simple_User, Name: Cristiana, Surname: Scarano, Address: Sassari, Job: Cameriera, BirthDate: 31/5/1970, Gender: Female
+Sergio, Simple_User, Name: Sergio, Surname: Scarano, Address: Roma, Job: Meccanico, BirthDate: 5/8/1935, Gender: Male
+Rita__2, Simple_User, Name: Rita, Surname: Ceccarelli, Address: Roma, Job: Panettiera, BirthDate: 5/8/1938, Gender: Female
+Giuseppe, Simple_User, Name: Giuseppe, Surname: Pelosi, Address: rcellina, Job: Operaio, BirthDate: 5/7/1920, Gender: Male
+Ermenegildo, Simple_User, Name: Ermenegildo, Surname: Ermenegildo, Address: TOrino, Job: Contadino, BirthDate: 9/7/1920, Gender: Male
+Marcellina, Simple_User, Name: Marcella, Surname: Pelosi, Address: Via_della_Rocca_21_Milano_Mi_Italy, Job: Casalinga, BirthDate: 6/5/1947, Gender: Female
+Giacinto, Simple_User, Name: Giacinto, Surname: Bianchi, Address: Via_della_Rocca_21_Milano_Mi_Italy, Job: Operaio, BirthDate: 6/9/1944, Gender: Male
+AMIAT_TO, Company, Name: AMIAT, Address: Via_G_Ferraris_23_Torino_TO_Italy(Legal) Via_G_Ferraris_27_Torino_TO_Italy(Amministrative), Activity/Products: Raccolta_Rifiuti
+Enel_Energy, Company, Name: Enel, Address: Via_Massena_TO(Legal) Via_Lucente_MI(Amministrative), Activity/Products: Fornitura_Energia_Elettrica
+GTT_TO, Company, Name: GTT, Address: f(Legal) s(Amministrative), Activity/Products: Trasporto_Urbano
+Gruppo_Compleanno, Group, Name: Gruppo_Compleanno, Address: Casa, Topic: Organizzazione_festa
+Gr_Pesca, Group, Name: Pesca_is_for_MEN, Address: Lago_Como, Topic: Per_veri_Pescatori
+Caccia_Al_Cinghiale, Group, Name: Caccia_Al_Cinghiale, Address: Bosco_Delle_Rovere_CU, Topic: Solo_Temerari!
+Fabri, Simple_User, Name: Fabrizio, Surname: Scarano, Address: Viterbo, Job: Impiegato, BirthDate: 30/1/1974, Gender: Male
